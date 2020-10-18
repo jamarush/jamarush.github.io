@@ -1,9 +1,13 @@
 body {background-color: lightgray;}
 .column {
   float: left;
-  width: 40%;
+  width: 50%;
   background-color: white;
   padding: 25px;
+}
+
+.row {
+  display: flex;
 }
 
 a:link {
