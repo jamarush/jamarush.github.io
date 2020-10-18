@@ -26,4 +26,7 @@ hr {
   .column {
     width: 100%;
   }
+  .row {
+    display: table;
+  }
 }
